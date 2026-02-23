@@ -1,6 +1,6 @@
 package chess;
 
-import application.boardgame.Board;
+import boardgame.Board;
 import chess.pieces.*;
 
 public class ChessMatch {
